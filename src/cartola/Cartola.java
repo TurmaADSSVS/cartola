@@ -15,7 +15,7 @@ public class Cartola {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("ola cartoleiro");
+        System.out.println("Bem vindo cartoleiro");
     }
     
 }
